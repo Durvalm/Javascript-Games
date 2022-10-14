@@ -11,7 +11,6 @@ const tieHTML = document.querySelector('.tie');
 const body = document.querySelector('body');
 const continueButton = document.querySelector('.continue')
 
-
 // Game Variables
 let isOver = false;
 let playerTurn = '';
